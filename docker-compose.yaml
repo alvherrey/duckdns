@@ -6,7 +6,7 @@ services:
     environment:
       - PUID=1000 #optional
       - PGID=1000 #optional
-      - TZ=Europe/Europe
+      - TZ=Europe/Madrid
       - SUBDOMAINS=subdomain1,subdomain2
       - TOKEN=token
       - LOG_FILE=false #optional
